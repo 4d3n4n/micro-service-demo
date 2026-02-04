@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mohamedutopios/config-server-ynov-m1.git
+          uri: https://github.com/4d3n4n/micro-service-demo.git
           default-label: main
